@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-table-game/static/css/main.46c8f647.css",
+    "main.js": "/react-table-game/static/js/main.c500a011.js",
+    "index.html": "/react-table-game/index.html",
+    "main.46c8f647.css.map": "/react-table-game/static/css/main.46c8f647.css.map",
+    "main.c500a011.js.map": "/react-table-game/static/js/main.c500a011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c8f647.css",
+    "static/js/main.c500a011.js"
+  ]
+}
