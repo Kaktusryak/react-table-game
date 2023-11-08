@@ -1,0 +1,58 @@
+.menu{
+    background-color: white;
+    border:3px solid black;
+    width: 70vw;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: 40px;
+    border-radius: 20px;
+}
+.menu-form{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.menu-form-left{
+    display: flex;
+    
+    align-items: center;
+    height: 100%;
+}
+.menu-form-right{
+    display: flex;
+    
+    align-items: center;
+    height: 100%;
+}
+.menu-name{
+    padding-left: 1vw;
+    width: 20vw;
+    font-size: 20px;
+    height: 50%;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.button{
+    font-size: 20px;
+    width: 12vw;
+    height: 50%;
+    border-radius: 7px;
+    border: none;
+    background-color: #5385CF;
+    color: white;
+}
+.submit{
+    margin-left: 1vw;
+}
+.clear{
+    background-color: crimson;
+}
+.logo{
+    font-size: 30px;
+    margin-right: 3vw;
+}

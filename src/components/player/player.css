@@ -1,0 +1,85 @@
+.player{
+    background-color: white;
+    border:3px solid black;
+    width: 70vw;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.player-form{
+    display: flex;
+    justify-content: space-between;
+    width: 50vw;
+    align-items: center;
+}
+.player-remove{
+    width: 50px;
+    height: 50px;
+    background-color: crimson;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+.points-minus{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 81, 0);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.points-plus{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(8, 240, 28);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.points-add{
+    width: 8vw;
+    height: 50px;
+    background-color: #5385CF;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.points-input{
+    
+    padding-left: 1vw;
+    width: 20vw;
+    font-size: 20px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.first{
+    color: gold;
+    
+}
+.second{
+    color: silver;
+}
+.third{
+    color: brown;
+}
+
